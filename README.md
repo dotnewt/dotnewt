@@ -14,6 +14,7 @@ I am Adkham Jonuzokov. .NET Backend Developer from Uzbekistan.
 - 🔭 I have been working with C#/.NET for over a year
 - 🌱 Student of the National University of Uzbekistan
 - ⚡ In my free time I read tech articles.
+- ✨ Dreams of becoming a programmer
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/the_Antithesis)
 
 ---
